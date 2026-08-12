@@ -1,0 +1,12 @@
+target/
+*.iml
+.idea/
+.DS_Store
+*.class
+*.log
+.bloop
+.metals
+.vscode
+.classpath
+.project
+.settings/
